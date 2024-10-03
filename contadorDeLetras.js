@@ -1,4 +1,4 @@
-let frase = "Eu acho que é isso Aqui AAaaaAAaa";
+let frase = "Frase teste para este algoritmo de contagem de letras.";
 let letraEscolida = "a";
 let totalLetras = 0;
 
